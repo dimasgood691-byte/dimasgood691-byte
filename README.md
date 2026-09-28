@@ -16,8 +16,8 @@ A passionate Web Developer focused on building modern and user-friendly applicat
 ---
 
 ### 📊 GitHub Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dimskuy&show_icons=true&theme=radial)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dimskuy&layout=compact&theme=radial)
+![Anurag's GitHub stats](https://github-readme-stats-eight.vercel.app/api?username=dimskuy&show_icons=true&theme=radial)
+![Top Langs](https://github-readme-stats-eight.vercel.app/api/top-langs/?username=dimskuy&layout=compact&theme=radial)
 
 ---
 
