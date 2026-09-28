@@ -15,8 +15,7 @@ A passionate Web Developer focused on building modern and user-friendly applicat
 
 ---
 
-### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dimasgood691-byte&show_icons=true&theme=radial)
+### 📊 GitHub Streak
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dimasgood691-byte&theme=radial)
 ---
 
