@@ -22,9 +22,9 @@ A passionate Web Developer focused on building modern and user-friendly applicat
 ###  🔥GitHub Streak
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dimasgood691-byte&theme=radial)
 ---
-### 📊 GitHub Stats
+### GitHub Stats
 ![Anurag's GitHub stats](https://github-readme-stats-eight.vercel.app/api?username=dimasgood691-byte&show_icons=true&theme=radial)
 ---
 
-### 📫 Connect with Me
+### Connect with Me
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dimas-putra-1a2250392)
