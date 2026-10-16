@@ -28,15 +28,10 @@ A passionate Web Developer focused on building modern, performant, and user-frie
 
 ---
 
-### 📊 GitHub Stats
+### 🔥 GitHub Streak
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dimasgood691-byte&theme=radial" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-eight.vercel.app/api?username=dimasgood691-byte&show_icons=true&theme=radial" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-eight.vercel.app/api/top-langs/?username=dimasgood691-byte&layout=compact&theme=radial" alt="Top Langs" />
 </p>
 
 ---
@@ -44,4 +39,4 @@ A passionate Web Developer focused on building modern, performant, and user-frie
 ### 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dimas-putra-1a2250392)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emailkamu@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dimasgood691@gmail.com)
