@@ -25,7 +25,7 @@ A passionate Web Developer focused on building modern, performant, and user-frie
 
 ### 🔥 GitHub Streak
 
-<p align="center">
+<p>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dimasgood691-byte&theme=radial" alt="GitHub Streak" />
 </p>
 
