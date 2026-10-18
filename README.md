@@ -7,7 +7,8 @@
 </p>
 
 [![Status](https://img.shields.io/badge/Open_for-Work_/_Projects-brightgreen?style=flat-square&logo=github)](https://linkedin.com/in/dimas-putra-1a2250392)
-[![Profile Views](https://komarev.com/ghpvc/?username=dimasgood691-byte&label=Profile%20Views&color=0e75b6&style=flat-square)](https://github.com/dimasgood691-byte)
+[![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=dimasgood691-byte.dimasgood691-byte&left_color=555555&right_color=0e75b6&left_text=Profile%20Views)](https://github.com/dimasgood691-byte)
+[![GitHub Followers](https://img.shields.io/github/followers/dimasgood691-byte?label=Followers&style=flat-square&color=0e75b6&logo=github)](https://github.com/dimasgood691-byte)
 
 </div>
 
