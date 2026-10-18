@@ -10,9 +10,7 @@ A passionate Web Developer focused on building modern, performant, and user-frie
 
 ### 🛠️ Tech Stack
 
-<div align="center">
-
-<div align="center">
+<div>
 
 | Kategori | Teknologi & Tools |
 | :--- | :--- |
