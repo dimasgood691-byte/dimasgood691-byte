@@ -1,7 +1,7 @@
 # Hi there, I'm Dimas Putra Madiadipura 👋
 
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=61DAFB&width=435&lines=Fullstack+Web+Developer;Tech+Enthusiast;Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=61DAFB&width=435&lines=Bismillah+Fullstack+Web+Developer;Tech+Enthusiast;Problem+Solver" alt="Typing SVG" />
 </p>
 
 A passionate Web Developer focused on building modern, performant, and user-friendly applications.
