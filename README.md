@@ -37,17 +37,18 @@
 
 ### 🏆 Bootcamp & Certifications
 
-**🎓 Intensive Program**
-- **[SMK] Coding Camp powered by DBS Foundation 2026** — *Full-Stack Web Developer Cohort*
+#### 🎓 Intensive Program
+> 🏅 **[SMK] Coding Camp powered by DBS Foundation 2026**
+> *Role: Full-Stack Web Developer Cohort*
 
-**📜 Dicoding Academy Certifications**
+#### 📜 Dicoding Academy Certifications
 
-| Bidang | Sertifikasi Kelas yang Diselesaikan | Penyelenggara |
+| Bidang Keahlian | Kelas yang Diselesaikan | Kredensial / Sertifikat |
 | :--- | :--- | :---: |
-| **Front-End & React** | • Belajar Membuat Aplikasi Web dengan React<br>• Belajar Membuat Front-End Web untuk Pemula<br>• Belajar Dasar Pemrograman Web | ![Dicoding](https://drive.google.com/file/d/1NYa3bKEgZuI-EEEwHZDwY4vJ6a_aU6Ye/view) |
-| **Back-End & JS** | • Belajar Back-End Pemula dengan JavaScript<br>• Belajar Dasar Pemrograman JavaScript | ![Dicoding](https://drive.google.com/file/d/1NUebro-mbC1yvf3l6ZmufjfBXB8CP8qJ/view) |
-| **Cloud & AI** | • Belajar Dasar Cloud dan Gen AI di AWS | ![AWS](https://drive.google.com/file/d/1DhSyiSseOW2JbBqxcUcFSC22MatqvJJt/view) |
-| **Software Engineering** | • Memulai Dasar Pemrograman untuk Menjadi Pengembang Software<br>• Pengenalan ke Logika Pemrograman (Programming Logic 101)<br>• Introduction to Financial Literacy | ![Dicoding](https://drive.google.com/file/d/1YvunvUkyGhtWg7ISSGM_VtuX74sFr6xe/view) |
+| **🎨 Front-End & React** | ✅ Belajar Membuat Aplikasi Web dengan React<br>✅ Belajar Membuat Front-End Web untuk Pemula<br>✅ Belajar Dasar Pemrograman Web | <a href="https://drive.google.com/file/d/1NYa3bKEgZuI-EEEwHZDwY4vJ6a_aU6Ye/view" target="_blank"><img src="https://img.shields.io/badge/Dicoding-Lihat_Sertifikat-2D3E50?style=for-the-badge&logo=google-drive&logoColor=white" alt="Lihat Sertifikat Front-End" /></a> |
+| **⚙️ Back-End & JS** | ✅ Belajar Back-End Pemula dengan JavaScript<br>✅ Belajar Dasar Pemrograman JavaScript | <a href="https://drive.google.com/file/d/1NUebro-mbC1yvf3l6ZmufjfBXB8CP8qJ/view" target="_blank"><img src="https://img.shields.io/badge/Dicoding-Lihat_Sertifikat-2D3E50?style=for-the-badge&logo=google-drive&logoColor=white" alt="Lihat Sertifikat Back-End" /></a> |
+| **☁️ Cloud & AI** | ✅ Belajar Dasar Cloud dan Gen AI di AWS | <a href="https://drive.google.com/file/d/1DhSyiSseOW2JbBqxcUcFSC22MatqvJJt/view" target="_blank"><img src="https://img.shields.io/badge/AWS_%26_Dicoding-Lihat_Sertifikat-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="Lihat Sertifikat AWS" /></a> |
+| **💻 Software Engineering** | ✅ Memulai Dasar Pemrograman untuk Menjadi Pengembang Software<br>✅ Pengenalan ke Logika Pemrograman (Programming Logic 101)<br>✅ Introduction to Financial Literacy | <a href="https://drive.google.com/file/d/1YvunvUkyGhtWg7ISSGM_VtuX74sFr6xe/view" target="_blank"><img src="https://img.shields.io/badge/Dicoding-Lihat_Sertifikat-2D3E50?style=for-the-badge&logo=google-drive&logoColor=white" alt="Lihat Sertifikat Fundamental" /></a> |
 
 ---
 
