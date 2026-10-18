@@ -3,7 +3,7 @@
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi there, I'm Dimas Putra Madiadipura!
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&width=550&lines=Bismillah+Fullstack+Web+Developer;Software+Engineering+(SMK+RPL)+Student;Passionate+about+Building+Websites+%26+Apps;Tech+Enthusiast+%26+Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&width=550&lines=Bismillah+Fullstack+Web+Developer;Software+Engineering+Student;Passionate+about+Building+Websites+%26+Apps;Tech+Enthusiast+%26+Problem+Solver" alt="Typing SVG" />
 </p>
 
 [![Status](https://img.shields.io/badge/Open_for-Work_/_Projects-brightgreen?style=flat-square&logo=github)](https://linkedin.com/in/dimas-putra-1a2250392)
@@ -16,7 +16,7 @@
 ### 👨‍💻 About Me
 
 - 🎓 I am a Vocational High School (**SMK**) student majoring in **Software Engineering (Rekayasa Perangkat Lunak / RPL)**.
-- 💻 Coding is my biggest hobby—I love turning creative ideas into functional **websites and applications**.
+- 💻 Coding is my biggest hobby, I love turning creative ideas into functional **websites and applications**.
 - 🚀 Focused on building modern, performant, and user-friendly digital solutions.
 - 🌱 Continuously learning and exploring new technologies in **Fullstack Development**.
 
