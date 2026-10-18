@@ -1,4 +1,15 @@
-# Hi there, I'm Dimas Putra Madiadipura 👋
+<div align="center">
+
+# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi there, I'm Dimas Putra Madiadipura!
+
+[![Status](https://img.shields.io/badge/Open_for-Work_/_Projects-brightgreen?style=flat-square&logo=github)](https://linkedin.com/in/dimas-putra-1a2250392)
+[![Profile Views](https://komarev.com/ghpvc/?username=dimasgood691-byte&label=Profile%20Views&color=0e75b6&style=flat-square)](https://github.com/dimasgood691-byte)
+
+*A passionate Web Developer focused on building modern and user-friendly applications.*
+
+---
+
+</div>
 
 <p align="left">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=61DAFB&width=435&lines=Bismillah+Fullstack+Web+Developer;Tech+Enthusiast;Problem+Solver" alt="Typing SVG" />
