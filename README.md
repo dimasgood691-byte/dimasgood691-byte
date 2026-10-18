@@ -35,6 +35,22 @@
 
 ---
 
+### 🏆 Bootcamp & Certifications
+
+**🎓 Intensive Program**
+- **[SMK] Coding Camp powered by DBS Foundation 2026** — *Full-Stack Web Developer Cohort*
+
+**📜 Dicoding Academy Certifications**
+
+| Bidang | Sertifikasi Kelas yang Diselesaikan | Penyelenggara |
+| :--- | :--- | :---: |
+| **Front-End & React** | • Belajar Membuat Aplikasi Web dengan React<br>• Belajar Membuat Front-End Web untuk Pemula<br>• Belajar Dasar Pemrograman Web | ![Dicoding](https://drive.google.com/file/d/1NYa3bKEgZuI-EEEwHZDwY4vJ6a_aU6Ye/view) |
+| **Back-End & JS** | • Belajar Back-End Pemula dengan JavaScript<br>• Belajar Dasar Pemrograman JavaScript | ![Dicoding](https://drive.google.com/file/d/1NUebro-mbC1yvf3l6ZmufjfBXB8CP8qJ/view) |
+| **Cloud & AI** | • Belajar Dasar Cloud dan Gen AI di AWS | ![AWS](https://drive.google.com/file/d/1DhSyiSseOW2JbBqxcUcFSC22MatqvJJt/view) |
+| **Software Engineering** | • Memulai Dasar Pemrograman untuk Menjadi Pengembang Software<br>• Pengenalan ke Logika Pemrograman (Programming Logic 101)<br>• Introduction to Financial Literacy | ![Dicoding](https://drive.google.com/file/d/1YvunvUkyGhtWg7ISSGM_VtuX74sFr6xe/view) |
+
+---
+
 ### 🔥 GitHub Streak
 
 <p align="left">
