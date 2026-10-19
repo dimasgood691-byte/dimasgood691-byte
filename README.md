@@ -64,8 +64,6 @@
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dimasgood691-byte&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
-  <br><br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dimasgood691-byte&theme=tokyo-night&hide_border=true&bg_color=0D1117&area=true" width="100%" alt="Activity Graph" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
