@@ -1,18 +1,24 @@
+<!-- HEADER BANNER DENGAN BACKGROUND GRADIENT ANIMASI CSS -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Dimas%20Putra%20Madiadipura&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineering%20Student%20%7C%20Fullstack%20Web%20Developer&descAlignY=58&descSize=18" width="100%" alt="Header Banner" />
+</div>
+
 <div align="center">
 
-# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi there, I'm Dimas Putra Madiadipura!
-
+<!-- TYPING ANIMATION -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&width=550&lines=Bismillah+Fullstack+Web+Developer;Software+Engineering+Student;Passionate+about+Building+Websites+%26+Apps;Tech+Enthusiast+%26+Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=580&lines=👋+Hi+there!+Welcome+to+My+GitHub+Profile;Bismillah+Fullstack+Web+Developer;Passionate+about+Building+Websites+%26+Apps;Tech+Enthusiast+%26+Problem+Solver" alt="Typing SVG" />
 </p>
 
-[![Status](https://img.shields.io/badge/Open_for-Work_/_Projects-brightgreen?style=flat-square&logo=github)](https://linkedin.com/in/dimas-putra-1a2250392)
-[![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=dimasgood691-byte.dimasgood691-byte&left_color=555555&right_color=0e75b6&left_text=Profile%20Views)](https://github.com/dimasgood691-byte)
-[![GitHub Followers](https://img.shields.io/github/followers/dimasgood691-byte?label=Followers&style=flat-square&color=0e75b6&logo=github)](https://github.com/dimasgood691-byte)
+<!-- INTERACTIVE BADGES -->
+[![Status](https://img.shields.io/badge/Open_for-Work_/_Projects-00E676?style=for-the-badge&logo=github&logoColor=black)](https://linkedin.com/in/dimas-putra-1a2250392)
+[![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=dimasgood691-byte.dimasgood691-byte&left_color=1a1a2e&right_color=00b4d8&left_text=Profile%20Views)](https://github.com/dimasgood691-byte)
+[![GitHub Followers](https://img.shields.io/github/followers/dimasgood691-byte?label=Followers&style=for-the-badge&color=00b4d8&logo=github)](https://github.com/dimasgood691-byte)
 
 </div>
 
----
+<!-- ANIMATED GRADIENT DIVIDER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ### 👨‍💻 About Me
 
@@ -21,7 +27,7 @@
 - 🚀 Focused on building modern, performant, and user-friendly digital solutions.
 - 🌱 Continuously learning and exploring new technologies in **Fullstack Development**.
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ### 🛠️ Tech Stack
 
@@ -33,7 +39,7 @@
 | **Databases** | <a href="https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" /></a> <a href="https://www.postgresql.org/" target="_blank"><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" /></a> <a href="https://www.microsoft.com/sql-server" target="_blank"><img src="https://img.shields.io/badge/SQL_Server-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" /></a><br><a href="https://supabase.com/" target="_blank"><img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" /></a> <a href="https://firebase.google.com/" target="_blank"><img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" /></a> |
 | **Hosting & Deployment** | <a href="https://vercel.com/" target="_blank"><img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" /></a> <a href="https://cpanel.net/" target="_blank"><img src="https://img.shields.io/badge/cPanel-FF6C2C?style=for-the-badge&logo=cpanel&logoColor=white" alt="cPanel" /></a> <a href="https://www.infinityfree.com/" target="_blank"><img src="https://img.shields.io/badge/InfinityFree-0080FF?style=for-the-badge&logo=cloudflare&logoColor=white" alt="InfinityFree" /></a> |
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ### 🏆 Bootcamp & Certifications
 
@@ -50,17 +56,28 @@
 | ** Cloud & AI** | Belajar Dasar Cloud dan Gen AI di AWS | <a href="https://drive.google.com/file/d/1DhSyiSseOW2JbBqxcUcFSC22MatqvJJt/view" target="_blank"><img src="https://img.shields.io/badge/Dicoding-Lihat_Sertifikat-2D3E50?style=for-the-badge&logo=amazonaws&logoColor=white" alt="Lihat Sertifikat AWS" /></a> |
 | ** Software Engineering** | Memulai Dasar Pemrograman untuk Menjadi Pengembang Software | <a href="https://drive.google.com/file/d/1YvunvUkyGhtWg7ISSGM_VtuX74sFr6xe/view" target="_blank"><img src="https://img.shields.io/badge/Dicoding-Lihat_Sertifikat-2D3E50?style=for-the-badge&logo=google-drive&logoColor=white" alt="Lihat Sertifikat Fundamental" /></a> |
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-### 🔥 GitHub Streak
+### 🔥 GitHub Streak & Activity
 
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dimasgood691-byte&theme=radial" alt="GitHub Streak" />
-</p>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dimasgood691-byte&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  <br><br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dimasgood691-byte&theme=tokyo-night&hide_border=true&bg_color=0D1117&area=true" width="100%" alt="Activity Graph" />
+</div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ### 📫 Connect with Me
 
+<div align="center">
+
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dimas-putra-1a2250392)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dimasgood691@gmail.com)
+
+</div>
+
+<!-- FOOTER BANNER DENGAN BACKGROUND GRADIENT ANIMASI CSS -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer" width="100%" alt="Footer Banner" />
+</div>
